@@ -1,0 +1,15 @@
+Resources :
+	
+	Repo:
+		https://github.com/SEATechWorks/WebAdventures
+	
+	Github :
+		https://github.com/
+		https://pages.github.com/
+		https://guides.github.com/
+		https://guides.github.com/activities/hello-world/
+		https://guides.github.com/features/pages/
+		https://guides.github.com/introduction/git-handbook/
+	
+	Hello World :
+		https://www.w3schools.com/html/html_intro.asp
