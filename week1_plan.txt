@@ -1,0 +1,10 @@
+1st Web Session Planned concepts:
+Git and Intro to CLI - 30 minutes
+Hello World - 5 minutes
+Github Pages - 5 minutes
+Basic page #1 - 5 minutes
+Basic page #2 - 10 mins
+Basic page #3 - 10 mins
+Basic page #4 - 15 mins
+
+Q&A - 25 mins
